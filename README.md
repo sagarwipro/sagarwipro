@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sagarwipro
-- 👀 I’m interested in Devlopment, Administrative, IT Tech and Consultancy
-- 🌱 I’m currently learning React
+- 👀 I’m interested in Devlopment, UNIX Administrative, IT Tech and Consultancy
+- 🌱 Recently learned Angular and Spring Boot.
 - 📫 How to reach me sagarwipro143@gmail.com
 
 <!---
