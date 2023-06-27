@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sagarwipro
-- 👀 I’m interested in Devlopment, UNIX Administrative, IT Tech and Consultancy
+- 👀 I’m interested in Front-End, Back-End Developer, UNIX Administrator, IT Tech and Consultancy roles.
 - 🌱 Recently learned Angular and Spring Boot.
 - 📫 How to reach me sagarwipro143@gmail.com
 
